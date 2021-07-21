@@ -1,0 +1,64 @@
+.hero {
+  background-color: transparent;
+  background-image: url(../../assets/images/parts/heroes/default.jpg);
+  background-repeat: no-repeat;
+  background-size: auto;
+  max-width: none !important;
+  height: 260px !important;
+  margin-bottom: 0;
+  padding: 0;
+  position: relative;
+}
+.hero .heroPlacementContainer .panel-heading {
+  width: 65%;
+  background-repeat: no-repeat;
+  background-position: 20px bottom;
+  padding-bottom: 10px;
+}
+.panel-heading {
+  padding: 20px 20px;
+  border-bottom: 1px solid transparent;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  width: 65%;
+  background-repeat: no-repeat;
+  background-position: 20px bottom;
+  padding-bottom: 10px;
+}
+.heroPlacementContainer {
+  border: none !important;
+  background-color: #072847;
+  background-image: none;
+  background-repeat: no-repeat;
+  background-position-x: left;
+  background-size: cover;
+  float: right;
+  width: 975px !important;
+  margin-bottom: 0;
+  height: 260px !important;
+  overflow: hidden;
+  width: 65%;
+}
+.panel-title {
+  font-family: 'Verdana', sans-serif !important;
+  color: #fff !important;
+  font-size: 22px !important;
+  font-weight: bold !important;
+}
+.jumbotronElementContainer .heroPlacementContainer .panel-body {
+  width: 70% !important;
+}
+.panel-body {
+  font-family: 'Roboto', sans-serif !important;
+  padding: 20px;
+}
+.bodyTextSpan {
+  font-family: 'Verdana', sans-serif !important;
+  font-weight: bold !important;
+  font-family: 'Roboto', sans-serif !important;
+  font-weight: normal !important;
+  line-height: 14px;
+  color: #fff !important;
+  font-size: 14px !important;
+  margin: 0;
+}
